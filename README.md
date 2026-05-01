@@ -1,4 +1,4 @@
-# counter_provider
+# counter_provider_flutter
 
 A new Flutter project.
 
